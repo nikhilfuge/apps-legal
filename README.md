@@ -10,6 +10,7 @@ One folder per app, each with a `privacy.html`:
 |---|---|---|
 | MetaClean | `meta-clean/privacy.html` | https://nikhilfuge.github.io/apps-legal/meta-clean/privacy.html |
 | Wildlife Flashback | `wildlife-flashback/privacy.html` | https://nikhilfuge.github.io/apps-legal/wildlife-flashback/privacy.html |
+| Printly | `printly/privacy.html` | https://nikhilfuge.github.io/apps-legal/printly/privacy.html |
 
 ## Adding an app
 
